@@ -304,3 +304,9 @@ Both the CLV and churn models use 5 core features drawn directly from the raw da
 
 Dataset used for academic and learning purposes.
 Analysis conducted as part of a customer behaviour study using Amazon purchase data.
+
+
+> **Note:** An extended version of this project with expanded feature engineering,
+> 11-feature churn model (85.58% accuracy), CLV model with 9 features (R² 0.7648),
+> and a full Streamlit app is available at
+> [customer_purchase_behaviour_prediction]([(https://github.com/rajeshkumarswain1976/customer_purchase_behaviour_prediction)]).
